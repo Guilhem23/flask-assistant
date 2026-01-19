@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 jinja2==2.10.1
 markupsafe==1.1.0
 pyasn1-modules==0.2.7
-pyasn1==0.4.7
+pyasn1==0.6.2
 requests==2.21.0
 rsa==4.0
 ruamel.yaml==0.15.81
